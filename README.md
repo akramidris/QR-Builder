@@ -64,6 +64,13 @@ Open the README inside the app folder you want to use:
 - `phone_contact_qr/README.md`
 - `whatsapp_contact_qr/README.md`
 
+## Windows Builds
+
+Fresh prebuilt Windows executables are stored in:
+
+- `windows_builds/PhoneContactQR.exe`
+- `windows_builds/WhatsAppQR.exe`
+
 ## Requirements
 
 - Python 3
